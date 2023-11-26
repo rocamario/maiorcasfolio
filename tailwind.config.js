@@ -17,11 +17,11 @@ module.exports = {
           css: {
             color: theme("colors.gray.700"),
             a: {
-              color: theme("colors.indigo.500"),
+              color: theme("colors.amber.500"),
               "&:hover": {
-                color: theme("colors.indigo.700"),
+                color: theme("colors.amber.700"),
               },
-              code: { color: theme("colors.indigo.400") },
+              code: { color: theme("colors.amber.400") },
             },
             "h2,h3,h4": {
               "scroll-margin-top": spacing[32],
@@ -35,11 +35,11 @@ module.exports = {
           css: {
             color: theme("colors.gray.300"),
             a: {
-              color: theme("colors.indigo.400"),
+              color: theme("colors.amber.400"),
               "&:hover": {
-                color: theme("colors.indigo.600"),
+                color: theme("colors.amber.600"),
               },
-              code: { color: theme("colors.indigo.400") },
+              code: { color: theme("colors.amber.400") },
             },
             blockquote: {
               borderLeftColor: theme("colors.gray.700"),

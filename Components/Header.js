@@ -15,7 +15,7 @@ function Header({ topic, topicName, topicCount }) {
         <div className="pt-24 px-12 mx-auto max-w-7xl">
           <div className="w-full mx-auto text-left md:w-11/12 xl:w-9/12 md:text-center">
             <h1 className="mb-8 text-4xl font-bold leading-none tracking-normal text-gray-900 md:text-6xl md:tracking-tight dark:text-gray-50">
-              <span className="block w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-blue-400 to-purple-500 lg:inline">
+              <span className="block w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-amber-600 to-yellow-300 lg:inline">
                 maiorcasfolio
               </span>
             </h1>
