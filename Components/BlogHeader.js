@@ -19,7 +19,7 @@ function BlogHeader({ data, content, readTime }) {
 
         <div className="flex items-center flex-wrap pb-2 border-b-2 border-gray-300 mt-auto w-full justify-between dark:border-amber-400">
           <a className="text-amber-700 inline-flex items-center dark:text-amber-200 group-hover:text-amber-800 dark:group-hover:text-amber-400">
-            Learn More{" "}
+            Read More{" "}
             <span className="pl-1">
               <AiOutlineArrowRight />
             </span>
