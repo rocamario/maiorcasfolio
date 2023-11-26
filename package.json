@@ -1,6 +1,6 @@
 {
-  "name": "bits-of-code",
-  "version": "0.1.0",
+  "name": "maiorca-s-folio",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

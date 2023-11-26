@@ -3,7 +3,7 @@ import { useTheme } from "next-themes";
 import Link from "next/link";
 import { BiTerminal } from "react-icons/bi";
 import { HiSun, HiMoon } from "react-icons/hi";
-import { CgUserlane } from "react-icons/cg";
+import { CgInfo, CgUserlane } from "react-icons/cg";
 import { AiOutlineGoogle } from "react-icons/ai";
 import { auth, provider } from "../Firebase/Firebase";
 import { signInWithPopup, signOut } from "firebase/auth";
@@ -91,7 +91,7 @@ function Navbar({ topics }) {
                     <BiTerminal className="text-xl" />
                   </span>
                   <span className="mx-1 font-semibold text-base md:text-base">
-                    Latest
+                    Home
                   </span>
                 </a>
               </Link>
@@ -140,7 +140,7 @@ function Navbar({ topics }) {
               <Link href="/about">
                 <a className="flex items-center mx-2 lg:mx-4 text-base text-gray-800 hover:text-indigo-600 dark:text-gray-50">
                   <span className="text-xl">
-                    <CgUserlane className="text-xl" />
+                    <CgInfo className="text-xl" />
                   </span>
                 </a>
               </Link>
