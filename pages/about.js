@@ -29,16 +29,10 @@ function about({ topics }) {
           . Nice to meet you.
         </h2>
         <p className="text-gray-600 mt-4 dark:text-amber-200">
-        <ul>
-          <li>I'm a software professional who finds purpose and fulfillment beyond the realm of coding. </li>
-          <li>Beyond my role in the tech world, I'm a seeker of meaningful connections, adventure, and relaxation.</li>
-          <li>I'm constantly striving for personal growth.</li>
-          <li>I capture life's moments through photography and am deeply in love with the beauty of nature and the concepts of freedom and liberty.</li>
-        </ul>
-        
-        
-        
-        
+          I'm a software professional who finds purpose and fulfillment beyond the realm of coding.
+          Beyond my role in the tech world, I'm a seeker of meaningful connections, adventure, and relaxation.
+          I'm constantly striving for personal growth.
+          I capture life's moments through photography and am deeply in love with the beauty of nature and the concepts of freedom and liberty.
         </p>
 
         <div className="text-center pt-8">

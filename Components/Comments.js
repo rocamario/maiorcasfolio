@@ -110,7 +110,7 @@ function Comments({ id }) {
               className="resize-none tracking-wide py-2 px-4 mb-3 leading-relaxed appearance-none block w-full bg-gray-100 border border-gray-100 dark:bg-gray-800 dark:border-gray-800 rounded  focus:outline-none focus:bg-white focus:border-gray-300 dark:focus:bg-gray-900 dark:focus:border-gray-700"
               id="message"
               type="text"
-              placeholder="What are your thoughts..?"
+              placeholder="Leave a comment..."
               rows="3"
               value={comment}
               style={{ height: textAreaHeight }}
@@ -122,15 +122,6 @@ function Comments({ id }) {
               }}
             />
             <div className="text-right">
-              <button
-                className="bg-amber-500 dark:bg-amber-600 text-white px-3 py-1.5 rounded text-sm font-semibold mr-5"
-                onClick={(e) => {
-                  e.preventDefault();
-                  setComment("");
-                }}
-              >
-                Reset
-              </button>
               <button
                 className="bg-amber-500 dark:bg-amber-600 text-white px-3 py-1.5 rounded text-sm font-semibold"
                 onClick={handelPost}
