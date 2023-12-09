@@ -4,7 +4,6 @@ import Navbar from "../../Components/Navbar";
 import Footer from "../../Components/Footer";
 import Head from "next/head";
 import BlogInner from "../../Components/BlogInner";
-import BlogShare from "../../Components/BlogShare";
 import Comments from "../../Components/Comments";
 import { SWRConfig } from "swr";
 import { remarkHeadingId } from "remark-custom-heading-id";
