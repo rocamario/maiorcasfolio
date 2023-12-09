@@ -22,6 +22,6 @@ The codebase for maiorcasfolio was originally forked from [Bits-0f-C0de](https:/
 
 ---
 
-Feel free to follow me on [Instagram](https://www.instagram.com/maiorcasfolio/) and [LinkedIn](https://www.linkedin.com/in/rocamario/) for more updates.
+Feel free to follow me on [Instagram](https://www.instagram.com/maiorcasfolio/) and [LinkedIn](https://www.linkedin.com/in/marioroca/) for more updates.
 
 Happy reading! 🌟
