@@ -35,5 +35,5 @@ yarn-error.log*
 
 # Unwanted folders
 _old_content/
+old_public/
 Extra/
-Components/BlogShare.js
