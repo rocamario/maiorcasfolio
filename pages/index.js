@@ -24,32 +24,8 @@ export default function Home({ blogs, topics }) {
         <meta name="title" content="Maiorca's Folio" />
         <meta
           name="description"
-          content="Mario Roca's life experience portfolio. A chill place where I publish my experiences, food, travels and nice photos."
+          content="Mario Roca's portfolio of experiences, vegan food and travels. A photo section gallery is coming."
         />
-
-        {/* <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://" />
-        <meta property="og:title" content="Maiorca's Folio " />
-        <meta
-          property="og:description"
-          content="Mario Roca's life experience portfolio. A chill place where I publish my experiences, food, travels and very nice photos."
-        />
-        <meta
-          property="og:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
-        /> */}
-
-        {/* <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://blogs.soumya-jit.tech/" />
-        <meta property="twitter:title" content="Bits-0f-C0de 🚀" />
-        <meta
-          property="twitter:description"
-          content="Tech blogs and articles on various topics related to Software Development"
-        />
-        <meta
-          property="twitter:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
-        /> */}
       </Head>
 
       <div className="min-h-screen relative bg-white dark:bg-gray-900">

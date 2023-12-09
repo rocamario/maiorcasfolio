@@ -84,7 +84,6 @@ function id({ data, content, id, headings, topics }) {
         <div className="py-24">
           <BlogInner data={data} content={content} headings={headings} />
           <LikeBtn id={id} />
-          <BlogShare data={data} />
 
           <SWRConfig>
             <Comments id={id} />
