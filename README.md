@@ -1,6 +1,7 @@
 # Maiorcasfolio
 
-Welcome to Maiorcasfolio, a personal blog where I share my experiences of life, travels, and my adventures in the world of vegan food. This blog will also features a dedicated photo gallery section.
+Hey, I'm Mario and this is my blog, my space, my folio. A space where I want to share things with you. Like experiences, thoughts, adventures, information.
+I will add a gallery section. 
 
 ## About
 
@@ -12,7 +13,7 @@ To explore Maiorcasfolio, visit [maiorcasfolio.vercel.app](https://maiorcasfolio
 
 ## Features
 
-- **Blog Posts:** Read about my life experiences, travels, and vegan food.
+- **Blog Posts:** Experiences, travels, and vegan food.
 - **Photo Gallery:** A visual journey through moments. Coming soon.
 
 
