@@ -22,21 +22,22 @@ function about({ topics }) {
           <img src="/about.png" className="h-64" />
         </div>
         <h2 className="text-3xl font-semibold text-gray-700 py-4 dark:text-gray-200">
-          Hi,{" "}
+          Hey,{" "}
           <span className="bg-amber-400 text-white rounded px-1 dark:bg-amber-500">
             I’m Mario
           </span>{" "}
           . Nice to meet you.
         </h2>
         <p className="text-gray-600 mt-4 dark:text-amber-200">
-          I'm a software professional who finds purpose and fulfillment beyond the realm of coding.
-          Beyond my role in the tech world, I'm a seeker of meaningful connections, adventure, and relaxation.
-          I'm constantly striving for personal growth.
-          I capture life's moments through photography and am deeply in love with the beauty of nature and the concepts of freedom and liberty.
+          This is a space where I want to share things. Like experiences, thoughts, adventures, information and things that inspire me.
+
+          The name "maiorcasfolio" is a wordplay on "Mario Roca's folio".
+
+          I just wrote my first post here, more content is coming soon.
         </p>
 
         <div className="text-center pt-8">
-          <button className="bg-amber-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded dark:bg-amber-600">
+          {/* <button className="bg-amber-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded dark:bg-amber-600">
             <FaLaptop />
             <a
               rel="noopener noreferrer"
@@ -45,7 +46,7 @@ function about({ topics }) {
             >
               See My Job
             </a>
-          </button>
+          </button> */}
 
           <button className="bg-amber-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-amber-600">
             <FaInstagram />

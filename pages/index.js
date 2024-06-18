@@ -21,10 +21,10 @@ export default function Home({ blogs, topics }) {
     <>
       <Head>
         <title>Maiorca's Folio</title>
-        <meta name="title" content="Maiorca's Folio" />
+        <meta name="title" content="maiorcasfolio" />
         <meta
           name="description"
-          content="Mario Roca's portfolio of experiences, vegan food and travels. A photo section gallery is coming."
+          content="Mario Roca's folio"
         />
       </Head>
 

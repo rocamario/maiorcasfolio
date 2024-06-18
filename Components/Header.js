@@ -21,7 +21,7 @@ function Header({ topic, topicName, topicCount }) {
             </h1>
 
             <p className="px-0 mb-2 text-lg font-bold text-gray-800 md:text-xl lg:px-24 dark:text-gray-300">
-              Mario Roca's portfolio. Content is coming soon.
+              Mario Roca's portfolio. There is only 1 post for now.
               {/* of experiences, vegan food and travels. A photo section gallery is coming.*/}
             </p>
           </div>

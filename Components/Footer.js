@@ -20,14 +20,14 @@ function Footer() {
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
-            <a
+            {/* <a
               className="ml-4 text-gray-50"
               href="https://github.com/rocamario"
               rel="noopener noreferrer"
               target="_blank"
             >
               <SiGithub />
-            </a>
+            </a> */}
             <a
               className="ml-4 text-gray-50"
               href="https://www.instagram.com/maiorcasfolio/"
